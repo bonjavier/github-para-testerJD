@@ -1,2 +1,2 @@
-console.log("pruebas");
 alert("hola mundo");
+console.log("pruebas2");
